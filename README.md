@@ -1,4 +1,19 @@
-## Hi there 👋
+### 👋 Hi there! I'm Lian Carlos Gené Galvez 
+
+🇨🇺 *Havana, Cuba*  
+🎓 *Computer Engineering Student* @ CUJAE  
+🚀 Passionate about technology and continuous learning  
+
+---
+
+### 🛠 Current Focus
+
+🌐 *Web Development*  
+🎮 *Game Development*  
+📚 Constantly expanding my skillset in both fields  
+
+---
+
 
 <!--
 **MelquiadesXIII/MelquiadesXIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
