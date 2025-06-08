@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Lian Carlos Gené Galvez 
 
-🇨🇺 *From Havana, Cuba*  
-🎓 *Computer Engineering Student at CUJAE*  
+🇨🇺 From Havana, Cuba  
+🎓 Computer Engineering Student at CUJAE  
 🚀 Passionate about technology and continuous learning  
 
 ---
