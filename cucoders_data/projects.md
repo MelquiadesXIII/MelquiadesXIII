@@ -13,6 +13,6 @@ Descripción: Videojuego interactivo en **Java** que implementa y aplica diversa
 
 ## [Proyecto Final DPOO: Control de la Actividad Investigativa](https://github.com/MelquiadesXIII/Proyecto-Final-DPOO-Control-De-La-Actividad-Investigativa)
 
-![Proyecto Final DPOO: Control de la Actividad Investigativa](https://github.com/MelquiadesXIII/Proyecto-Final-DPOO-Control_De_La_Actividad_Investigativa)
+![Proyecto Final DPOO: Control de la Actividad Investigativa](https://github.com/MelquiadesXIII/Proyecto-Final-DPOO-Control-De-La-Actividad-Investigativa)
 
 Descripción: Proyecto final en **Java** (DPOO) orientado al **control/gestión de la actividad investigativa**, organizado para reflejar el alcance y la estructura real del repositorio.
