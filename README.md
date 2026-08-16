@@ -8,11 +8,11 @@
 
 ### 🛠 Current Focus
 
-🌐 *Web Development*  
-🎮 *Game Development*  
-📚 Constantly expanding my skillset in both fields  
+🌐 *Web Development* 
 
 ---
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/MelquiadesXIII)
 
 
 <!--
